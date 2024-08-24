@@ -1,1 +1,2 @@
-/* You can add global styles to this file, and also import other style files */
+html, body { height: 100%; }
+body { font-family: Verdana, sans-serif !important; &::-webkit-scrollbar-thumb { border-radius: .5rem; background-color: #212529; } &::-webkit-scrollbar { width: .50rem; border-radius: .5rem; background-color: #ffffff; } }
